@@ -4,3 +4,6 @@ Z:\Visual Studio 2015\Projects\Newbrak\Newbrak\bin\Debug\Newbrak.pdb
 Z:\Visual Studio 2015\Projects\Newbrak\Newbrak\obj\Debug\Newbrak.csprojResolveAssemblyReference.cache
 Z:\Visual Studio 2015\Projects\Newbrak\Newbrak\obj\Debug\Newbrak.exe
 Z:\Visual Studio 2015\Projects\Newbrak\Newbrak\obj\Debug\Newbrak.pdb
+C:\Users\janell\Source\Repos\ITPDaySix-FA2016-36-1501-02\Newbrak\bin\Debug\Newbrak.exe.config
+C:\Users\janell\Source\Repos\ITPDaySix-FA2016-36-1501-02\Newbrak\obj\Debug\Newbrak.exe
+C:\Users\janell\Source\Repos\ITPDaySix-FA2016-36-1501-02\Newbrak\obj\Debug\Newbrak.pdb

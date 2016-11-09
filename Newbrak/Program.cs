@@ -1,5 +1,9 @@
 ﻿using System;
 
+/* Created in class as an OOP discussion
+ * by Neil Inglese
+ */
+
 namespace Newbrak
 {
     class Program
